@@ -1,0 +1,22 @@
+\begin{table}[!htbp]\centering
+\small
+\caption{Dimensions of fraud resilience: amplification, persistence and stability}
+\label{tab:res}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrr}
+\toprule
+Metric & Fintech & Banks & Diff. & p (perm.) \\
+\midrule
+Amplification beta, all entities & 0.269 & 0.885 & -0.616 & 0.012 \\
+Amplification beta, excl. Jan-24 step & 0.095 & 0.422 & -0.327 & 0.306 \\
+Amplification beta, fraud-active entities & 0.518 & 0.887 & -0.369 & 0.209 \\
+AR(1) persistence, LSDV & 0.693 & 0.644 & 0.049 & 0.821 \\
+Half-life of shocks, months (LSDV) & 1.889 & 1.576 &  &  \\
+Variance ratio VR(3) & 0.444 & 0.566 & -0.122 & 0.464 \\
+Volatility: s.d. of monthly change & 0.495 & 0.326 & 0.169 & 0.284 \\
+Autocorrelation of monthly changes & -0.497 & -0.335 & -0.162 & 0.393 \\
+\bottomrule
+\end{tabular}
+}
+\par\vspace{2pt}\parbox{\textwidth}{\footnotesize Fraud-active institutions only for persistence and stability metrics (2 fintechs, 23 banks with at least 5 reported events per month); amplification rows use all entities in the first line. y = ln(1 + fraud per 100k clients). Amplification: slope of the monthly change in an entity's y on the monthly change in the leave-one-out mean of banks. Persistence: AR(1) with entity and month effects (LSDV; Nickell bias is of similar size in both groups, so the difference is informative). VR(3) is computed on month-demeaned y. p-values: randomization inference over entity labels.}
+\end{table}

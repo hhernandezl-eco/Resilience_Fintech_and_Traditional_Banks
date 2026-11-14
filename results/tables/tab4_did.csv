@@ -1,0 +1,7 @@
+Specification,Fintech x Post,(CR1 s.e.),p (CR1),p (WCR),p (perm.),Entities,Fintechs
+(1) All fintech vs banks,-1.059***,(0.207),0.000,0.009,0.005,30,5
+(2) + lagged ln clients,-0.983***,(0.247),0.000,0.015,0.009,30,5
+(3) vs microfinance banks,-0.271,(0.232),0.277,0.291,0.309,9,5
+(4) vs large banks,-0.983***,(0.241),0.001,0.015,0.001,15,5
+(5) Active fintech only,-1.110*,(0.478),0.028,0.142,0.052,27,2
+(6) PPML (exposure = clients),-1.583***,(0.242),0.000,,,29,4

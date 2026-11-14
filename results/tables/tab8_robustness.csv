@@ -1,0 +1,21 @@
+Variant,Fintech x Post,(CR1 s.e.),p (CR1),p (WCR),p (perm.),Entities,Fintechs
+Baseline (spec. 2),-0.983**,(0.247),0.000,0.015,0.010,30,5
+asinh(rate) outcome,-1.059***,(0.264),0.000,0.013,0.007,30,5
+Deposit-side fraud only (like-for-like products),-0.282,(0.200),0.168,0.224,0.403,30,5
+"Deposit-side fraud only, active fintechs only",-0.422,(0.408),0.311,0.630,0.283,27,2
+Broad measure: fraud + unrecognised-transaction claims,-0.833***,(0.185),0.000,0.014,0.001,30,5
+"ln(1 + fraud count), size control only",-1.066***,(0.253),0.000,0.019,0.005,30,5
+Per million digital-channel transactions,-1.022*,(0.418),0.022,0.099,0.056,26,5
+Excl. Bancolombia and Davivienda,-0.937**,(0.252),0.001,0.016,0.012,28,5
+Excl. Lulo Bank (digital bank),-1.054***,(0.276),0.001,0.034,0.005,29,5
+Lulo Bank re-classified as fintech,-1.006***,(0.272),0.001,0.018,0.003,30,6
+Fraud-active institutions only (>=5 events/month),-1.299**,(0.580),0.035,0.309,0.030,25,2
+Outcome winsorised at 5/95%,-0.925***,(0.236),0.000,0.015,0.008,30,5
+Donut: drop Jan-Feb 2024,-1.003**,(0.268),0.001,0.017,0.011,30,5
+Late shock date (Apr-2024),-0.840**,(0.265),0.004,0.020,0.012,30,5
+In-time placebo: shock set to Jul-2023 (2023 only),-0.021,(0.113),0.852,0.870,0.833,30,5
+Leave out fintech: Movi S.A.,-0.974**,(0.295),0.003,0.034,0.018,29,4
+Leave out fintech: Pagos GDE S.A,-1.067***,(0.254),0.000,0.024,0.009,29,4
+Leave out fintech: Aval Soluciones Digitales S.A.,-1.064**,(0.238),0.000,0.024,0.011,29,4
+Leave out fintech: TECNIPAGOS S.A.,-0.962**,(0.298),0.003,0.039,0.020,29,4
+Leave out fintech: Coink S.A,-0.819**,(0.221),0.001,0.040,0.037,29,4

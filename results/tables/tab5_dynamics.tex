@@ -1,0 +1,17 @@
+\begin{table}[!htbp]\centering
+\small
+\caption{Pre-trend and post-shock recovery slope of the fintech--bank gap}
+\label{tab:dyn}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrr}
+\toprule
+Term & Coefficient & (CR1 s.e.) & p (CR1) & p (WCR) \\
+\midrule
+Fintech x Post (level shift at k=0) & -0.927 & (0.249) & 0.001 & 0.014 \\
+Fintech x Post x months since shock (recovery slope) & -0.023 & (0.040) & 0.563 & 0.704 \\
+Fintech x pre-period linear trend & -0.012 & (0.031) & 0.707 & 0.768 \\
+\bottomrule
+\end{tabular}
+}
+\par\vspace{2pt}\parbox{\textwidth}{\footnotesize Model: entity and month fixed effects plus lagged ln clients. The pre-trend term is a linear trend in the fintech indicator over 2023 (months 0--11); the recovery slope is the change per month in the fintech--bank gap after the shock (negative = convergence).}
+\end{table}

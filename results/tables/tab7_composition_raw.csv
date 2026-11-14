@@ -1,0 +1,3 @@
+Group,Fraud events,Deposit/payment side (%),Credit side (%),Unclassified side (%),Unrecognised-transaction claims per fraud event,Misconduct claims per fraud event,"Mean entity share, deposit side (%)"
+Bank,845581,49.65792750783189,50.34207249216811,0.0,0.2281330824604621,1.4252413429346213,6.70868566750641
+Fintech,11278,99.68079446710409,0.31920553289590353,0.0,0.4741088845539989,0.9128391558787019,68.55569704406915

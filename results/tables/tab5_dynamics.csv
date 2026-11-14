@@ -1,0 +1,4 @@
+Term,Coefficient,(CR1 s.e.),p (CR1),p (WCR)
+Fintech x Post (level shift at k=0),-0.927,(0.249),0.001,0.014
+Fintech x Post x months since shock (recovery slope),-0.023,(0.040),0.563,0.704
+Fintech x pre-period linear trend,-0.012,(0.031),0.707,0.768

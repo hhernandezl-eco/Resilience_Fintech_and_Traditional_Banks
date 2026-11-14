@@ -1,0 +1,8 @@
+Measure,Bank,Fintech
+Fraud events,"845,581","11,278"
+Deposit/payment side (%),49.66,99.68
+Credit side (%),50.34,0.32
+Unclassified side (%),0.00,0.00
+Unrecognised-transaction claims per fraud event,0.23,0.47
+Misconduct claims per fraud event,1.43,0.91
+"Mean entity share, deposit side (%)",6.71,68.56

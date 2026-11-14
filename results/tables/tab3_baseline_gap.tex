@@ -1,0 +1,18 @@
+\begin{table}[!htbp]\centering
+\small
+\caption{Baseline gap in fraud intensity between fintechs and banks (month fixed effects)}
+\label{tab:gap}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrrr}
+\toprule
+Comparison & Fintech gap & (CR1 s.e.) & p (CR1) & p (perm.) & Obs. & Entities & Fintechs \\
+\midrule
+All fintech vs all banks & -1.359* & (0.736) & 0.065 & 0.088 & 720 & 30 & 5 \\
+All fintech vs microfinance banks & 0.754 & (0.732) & 0.303 & 0.444 & 216 & 9 & 5 \\
+All fintech vs large banks & -1.448* & (0.809) & 0.073 & 0.087 & 360 & 15 & 5 \\
+Active fintech vs all banks & 0.405 & (0.313) & 0.195 & 0.739 & 648 & 27 & 2 \\
+\bottomrule
+\end{tabular}
+}
+\par\vspace{2pt}\parbox{\textwidth}{\footnotesize Dependent variable: ln(1 + fraud events per 100,000 retail clients), 2023m1--2024m12. Regressions include month fixed effects only. Stars follow the randomization-inference p-value (* p<0.10, ** p<0.05, *** p<0.01).}
+\end{table}

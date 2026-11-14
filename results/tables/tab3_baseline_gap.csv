@@ -1,0 +1,5 @@
+Comparison,Fintech gap,(CR1 s.e.),p (CR1),p (perm.),Obs.,Entities,Fintechs
+All fintech vs all banks,-1.359*,(0.736),0.065,0.088,720,30,5
+All fintech vs microfinance banks,0.754,(0.732),0.303,0.444,216,9,5
+All fintech vs large banks,-1.448*,(0.809),0.073,0.087,360,15,5
+Active fintech vs all banks,0.405,(0.313),0.195,0.739,648,27,2

@@ -1,0 +1,7 @@
+Variable,N fintech,Fintech mean,Fintech median,N banks,Bank mean,Bank median,Diff. in means,Perm. p-value
+Fraud events per 100k clients (monthly mean),5,8.995,0.308,25,47.138,15.394,-38.143,0.189
+Fraud events (monthly mean),5,93.983,0.500,25,"1,409",149,"-1,315",0.289
+Retail clients (median),5,"1,323,887","255,516",25,"2,672,782","601,621","-1,348,895",0.442
+Deposit-side fraud per 100k clients,5,8.950,0.232,25,6.468,0.019,2.482,0.942
+Digital-channel transactions per client (monthly),5,0.064,0.019,21,0.931,0.354,-0.867,0.199
+Share of entity-months with zero reported fraud,5,0.542,0.750,25,0.018,0.000,0.523,0.003

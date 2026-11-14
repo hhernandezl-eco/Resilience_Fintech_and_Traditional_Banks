@@ -1,0 +1,31 @@
+Type,Institution,Months,"Retail clients (000, median)",Fraud events 2023-24,Mean fraud / 100k clients (monthly)
+Fintech (SEDPE),Coink S.A,24,256,"1,332",22.89
+Fintech (SEDPE),Aval Soluciones Digitales S.A.,24,"2,053","9,933",21.78
+Fintech (SEDPE),Pagos GDE S.A,24,148,12,0.31
+Fintech (SEDPE),Movi S.A.,24,"4,140",1,0.00
+Fintech (SEDPE),TECNIPAGOS S.A.,24,23,0,0.00
+Digital bank,Lulo Bank S.A.,24,339,49,0.63
+Microfinance bank,Banco Mundo Mujer S.A.,24,485,168,1.35
+Microfinance bank,Banco W S.A.,24,843,134,0.66
+Microfinance bank,BancamÃ­a,24,"1,326",152,0.48
+Microfinance bank,Mibanco S.A.,24,602,58,0.40
+Large bank,Bancolombia S.A.,24,"13,279","530,559",162.54
+Large bank,Davivienda,24,"8,320","189,298",93.00
+Large bank,Banco Falabella,24,"1,971","28,397",59.57
+Large bank,Scotiabank Colpatria S.A.,24,"2,773","12,099",18.19
+Large bank,Banco Popular S.A.,24,"1,455","5,386",15.39
+Large bank,BBVA Colombia,24,"6,947","22,873",13.55
+Large bank,Banagrario,24,"4,710","6,765",5.95
+Large bank,Banco de BogotÃ¡,24,"7,931","9,342",4.88
+Large bank,AV Villas,24,"4,611","2,804",2.52
+Large bank,Banco Caja Social,24,"8,666","4,619",2.17
+Other bank,Credifinanciera S.A.,24,4,282,252.05
+Other bank,Banco Serfinanza S.A.,24,245,"11,218",185.25
+Other bank,Finandina,24,38,"1,052",104.93
+Other bank,Itau CorpBanca Colombia S.A.,24,505,"7,058",58.49
+Other bank,Banco de Occidente,24,560,"7,285",57.15
+Other bank,Coopcentral,24,46,561,50.50
+Other bank,Bancoomeva,24,395,"3,572",37.64
+Other bank,Banco GNB Sudameris S.A.,24,120,969,34.05
+Other bank,Banco Pichincha,24,108,338,13.06
+Other bank,Banco UniÃ³n,24,541,543,4.05
