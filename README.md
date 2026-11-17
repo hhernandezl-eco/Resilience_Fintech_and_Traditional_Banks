@@ -1,8 +1,5 @@
 # Agile or Fragile? Fraud resilience of fintechs and traditional banks in Colombia
 
-Replication package for the econometric analysis of the paper submitted to *Cogent Business & Management*
-(Special Issue: Digital Finance: Reshaping Banking & Finance).
-
 **Design.** Monthly entity panel 2023m1-2024m12 (30 institutions: 5 licensed fintechs [SEDPE] and 25 banks).
 Fintech vs bank differences in (i) fraud intensity, (ii) absorption of the January-2024 escalation (difference-in-differences,
 event study, PPML), (iii) amplification, persistence and stability, (iv) product composition. Because only five fintechs exist,
